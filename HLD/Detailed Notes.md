@@ -30,8 +30,8 @@ Fixed-size memory blocks (e.g., 4KB); fundamental in virtual memory.
 
 ### 🔹 How the internet works
 
-DNS lookup → TCP/UDP → HTTP request → server response → browser renders.
-TCP breaks down data into packets, manages their transmission, and reassembles them correctly at the destination, handling potential issues like packet loss or out-of-order delivery. 
+* DNS lookup → TCP/UDP → HTTP request → server response → browser renders.
+* TCP breaks down data into packets, manages their transmission, and reassembles them correctly at the destination, handling potential issues like packet loss or out-of-order delivery. 
 
 ---
 
