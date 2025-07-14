@@ -1,0 +1,80 @@
+------------HLD------------
+
+Step 1: Fundamentales
+	Serverless and serverfull
+	Horizontal vs Vertical Scaling
+	What are threads?
+	What are pages?
+	How does the internet work?
+
+Step 2: Databases
+	SQL vs NoSQL Dbs
+	IN-memory Dbs
+	Data replication and migration
+	Data Partitioning
+	Sharding
+
+Step 3: Consistency vs Avalibility
+	Data consistency and its levels
+	Isolation and its levels
+	CAP theorem
+
+Step 4: Cache
+	What is Cache? (Redis, Memcahed)
+	Write Policies: write back, through and around
+	Replacement Policies: LFU, LRU, Segmented LRU etc.
+	Content Delivery Network (CDNs)
+
+Step 5: Networking
+	TCP vs UDP
+	what is http (1/2/3) and https
+	web sockets
+	webRTC and video streaming
+
+Step 6: Load Balancers
+	Load Balancing Algorithms (Stateless and Statefull)
+	Consistent Hashing
+	Proxy and Reverse Proxy
+	Rate Limiting
+
+Step 7: Message Queues
+	Asynchronous Processing (Kafka, RabbitMQ)
+	Publiser-Subsciber Model
+
+Step 8: Monoliths vs Microservices
+	Why Microservices?
+	Concept of Single Point of Failure
+	Avoiding Cascading Failure
+	Containerization (Docker)
+	Migrating to microsevices
+
+Step 9: Monitoring and Logging
+	Logging events and montioring metrics
+	Anomaly Detection
+
+Step 10: Security
+	Tokens for auth
+	SSO and OAuth
+	Acess control lists and Rule Engines
+	Encryption
+
+Step 11: System Design TradeOffs
+	Push vs Pull Architecture
+	Consistency vs Availability
+	SQL vs NoSQL dbs
+	Memory vs Latency
+	ThroughPut vs Latency
+	Accuracy vs Latency
+
+
+Step 12: PRACTICE
+	Youtube
+	Twitter
+	WhatsApp
+	Uber
+	Amazon
+	DropBox/Google Drive
+	Netflix 
+	Instagram
+	Zoom
+	Booking.com/Airbnb
